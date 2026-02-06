@@ -3,10 +3,14 @@
 First, run the development server:
 
 ```bash
+git clone https://github.com/petrushevskiyMaksim/konsalting-ts-react-tailwind
+```
+
+```bash
 npm install
+```
 
-before
-
+```bash
 npm run dev
 ```
 
